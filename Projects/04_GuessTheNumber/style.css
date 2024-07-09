@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    background-color: rgb(58, 55, 55);
+    color: white;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+input{
+    display: block;
+    padding: 10px 30px;
+    border:2px solid grey;
+    
+}
+
+.submit{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: black;
+    margin:20px 0px;
+    color: white;
+    width: 150px;
+    height: 40px;
+
+}

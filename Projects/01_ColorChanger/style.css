@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    padding:0px;
+    margin: 0px;
+}
+
+.canvas{
+    padding: 10px;
+    display: block;
+}
+
+.nav-btn{
+    margin-top: 10px;
+    background-color: rgb(197, 182, 182);
+    height:35px;
+    width:130px;
+}
+
+span{
+    display:block;
+}
+
+.button{
+    height:100px;
+    width:100px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+#grey{
+    background-color:grey ;
+}
+
+#white{
+    background-color:white ;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color:yellow ;
+}
